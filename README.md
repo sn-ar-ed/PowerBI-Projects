@@ -64,7 +64,7 @@ This repository contains a collection of interactive Power BI dashboards develop
 
 ## Repository Contents
 
-- Data Analytics Dashboard Collection.pbix
+- pbi project 2.pbix
 - Dashboard Screenshots
 - README.md
 
